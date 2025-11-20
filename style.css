@@ -1,0 +1,23 @@
+body {
+  background-color: #ff7e00;
+}
+h1 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+  background-color: lightblue;
+}
+p {
+  font-family: "Helvetica", sans-serif;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+#early-edit {
+  text-align: center;
+}
+.background-theme {
+  color: blue;
+  background-color: white;
+}
